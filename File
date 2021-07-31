@@ -1,0 +1,25 @@
+Datumaanvangtenaamstelling = "/Date(1355184000000)/";
+DatumeersteafgifteNederland = "/Date(1023235200000)/";
+Datumeerstetoelating = "/Date(1023235200000)/";
+G3installatie = "N.v.t.";
+
+Laadvermogen = "<null>";
+Massaleegvoertuig = 935;
+Massarijklaar = 1035;
+
+Maximaleconstructiesnelheid = "<null>";
+Maximumtetrekkenmassaautonoomgeremd = "<null>";
+
+Maximumtetrekkenmassageremd = 1200;
+Maximumtetrekkenmassamiddenasgeremd = "<null>";
+
+Maximumtetrekkenmassaongeremd = 515;
+Maximumtetrekkenmassaopleggergeremd = "<null>";
+
+Milieuclassificatie = "Niet geregistreerd";
+Nevenbrandstof = "Niet geregistreerd";
+Retrofitroetfilter = Nee;
+Toegestanemaximummassavoertuig = 1515;
+Tweedekleur = "Niet geregistreerd";
+Vermogen = 48;
+Vermogenbromsnorfiets = "<null>";
